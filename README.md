@@ -21,6 +21,9 @@ The **Student Analysis Dashboard** provides a comprehensive view of student perf
 
 ## 📷 Dashboard Preview
 
+<img width="1441" height="816" alt="Screenshot 2026-04-17 162509" src="https://github.com/user-attachments/assets/075bbbb3-6c03-47e5-a42b-6166b4e1bad6" />
+
+<img width="1444" height="800" alt="Screenshot 2026-04-17 162541" src="https://github.com/user-attachments/assets/e1c5fd86-5ed7-4239-b2a6-a75406894280" />
 
 ---
 ## 🗂️ Data Model
